@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Support.Application</RootNamespace>
+    <AssemblyName>Support.Application</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="MediatR" Version="8.1.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Common\Application\Application.csproj" />
+	  <ProjectReference Include="..\..\Common\Infrastructure\Infrastructure.csproj" />
+	  <ProjectReference Include="..\Domain\Domain.csproj" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="8.1.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+Vous avez reçu une nouvelle demande d'accès pour l'application {0}.
+Informations sur la demande :
+Prénom : {1}
+Nom : {2}
+Email : {3}
+
+
+Pour confirmer la demande d'accès, cliquez sur le lien : {4}

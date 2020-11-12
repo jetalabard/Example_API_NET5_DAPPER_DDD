@@ -1,0 +1,7 @@
+Votre demande d'accès a été confirmée.
+
+Vous pouvez à présent vous connecter avec les identifiants suivants :
+
+Login : {0}
+Mot de passe : Le mot de passe que vous aviez choisi
+Adresse du site : {1}

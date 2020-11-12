@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Common.Infrastructure</RootNamespace>
+    <AssemblyName>Common.Infrastructure</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="Mails\Helpers\TemplateMail\AccessRequestRfa.html" />
+	  <None Remove="Mails\Helpers\TemplateMail\AccessRequestRfa.txt" />
+	  <None Remove="Mails\Helpers\TemplateMail\AccessRequestUser.html" />
+	  <None Remove="Mails\Helpers\TemplateMail\AccessRequestUser.txt" />
+	  <None Remove="Mails\Helpers\TemplateMail\ContactSupport.html" />
+	  <None Remove="Mails\Helpers\TemplateMail\ContactSupport.txt" />
+	  <None Remove="Mails\Helpers\TemplateMail\DemandeAccesConfirmeePourUser.html" />
+	  <None Remove="Mails\Helpers\TemplateMail\DemandeAccesConfirmeePourUser.txt" />
+	  <None Remove="Mails\Helpers\TemplateMail\template.html" />
+	  <None Remove="Mails\Helpers\TemplateMail\template.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\ContactSupport.html">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\ContactSupport.txt">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\DemandeAccesConfirmeePourUser.html">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\DemandeAccesConfirmeePourUser.txt">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\AccessRequestRfa.html">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\AccessRequestRfa.txt">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\AccessRequestUser.html">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\AccessRequestUser.txt">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\template.html">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Mails\Helpers\TemplateMail\template.txt">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Dapper" Version="2.0.35" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0-rc.1.20451.13" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Application\Application.csproj" />
+	</ItemGroup>
+</Project>

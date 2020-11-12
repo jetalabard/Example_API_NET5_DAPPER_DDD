@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>UserAccess.Domain</RootNamespace>
+    <AssemblyName>UserAccess.Domain</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Common\Domain\Domain.csproj" />
+	</ItemGroup>
+  
+</Project>

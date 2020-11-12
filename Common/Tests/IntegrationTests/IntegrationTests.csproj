@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<RootNamespace>Common.Tests.IntegrationTests</RootNamespace>
+    <AssemblyName>Common.Tests.IntegrationTests</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.0-rc.1.20451.13" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="5.0.0-rc.1.20451.13" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Domain\Domain.csproj" />
+	  <ProjectReference Include="..\..\Infrastructure\Infrastructure.csproj" />
+	</ItemGroup>
+
+</Project>

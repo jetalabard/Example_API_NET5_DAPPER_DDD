@@ -1,0 +1,4 @@
+Organisation name
+{{include-body}}
+
+Cordialement, Organisation name.

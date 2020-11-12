@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Git\\.net5_Dapper_ddd\\UserAccess\\Domain\\Domain.csproj": {}
+  },
+  "projects": {
+    "E:\\Git\\.net5_Dapper_ddd\\Common\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Git\\.net5_Dapper_ddd\\Common\\Domain\\Domain.csproj",
+        "projectName": "Common.Domain",
+        "projectPath": "E:\\Git\\.net5_Dapper_ddd\\Common\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\jeremy.talabard\\.nuget\\packages\\",
+        "outputPath": "E:\\Git\\.net5_Dapper_ddd\\Common\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeremy.talabard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Git\\.net5_Dapper_ddd\\UserAccess\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Git\\.net5_Dapper_ddd\\UserAccess\\Domain\\Domain.csproj",
+        "projectName": "UserAccess.Domain",
+        "projectPath": "E:\\Git\\.net5_Dapper_ddd\\UserAccess\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\jeremy.talabard\\.nuget\\packages\\",
+        "outputPath": "E:\\Git\\.net5_Dapper_ddd\\UserAccess\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeremy.talabard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Git\\.net5_Dapper_ddd\\Common\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Git\\.net5_Dapper_ddd\\Common\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,997 @@
+2020-11-12 08:56:23.593 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 08:56:23.984 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 08:56:24.039 +01:00 [DBG] DetectChanges starting for 'SupportContext'.
+2020-11-12 08:56:24.041 +01:00 [DBG] DetectChanges completed for 'SupportContext'.
+2020-11-12 08:56:24.042 +01:00 [DBG] DetectChanges starting for 'SupportContext'.
+2020-11-12 08:56:24.042 +01:00 [DBG] DetectChanges completed for 'SupportContext'.
+2020-11-12 08:56:24.122 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 08:56:25.007 +01:00 [DBG] An error occurred using the connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 08:56:25.012 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 08:56:37.023 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 08:56:37.369 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 08:56:37.451 +01:00 [DBG] Context 'SupportContext' started tracking 'ApplicationInfo' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2020-11-12 08:56:37.464 +01:00 [DBG] DetectChanges starting for 'SupportContext'.
+2020-11-12 08:56:37.471 +01:00 [DBG] DetectChanges completed for 'SupportContext'.
+2020-11-12 08:56:37.553 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 08:56:56.429 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 08:56:56.773 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 08:56:56.843 +01:00 [DBG] Context 'SupportContext' started tracking 'ApplicationInfo' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2020-11-12 08:56:56.845 +01:00 [DBG] Context 'SupportContext' started tracking 'ApplicationInfo' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2020-11-12 08:56:56.862 +01:00 [DBG] An 'ApplicationInfo' entity tracked by 'SupportContext' changed from '"Added"' to '"Unchanged"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2020-11-12 08:56:56.872 +01:00 [DBG] DetectChanges starting for 'SupportContext'.
+2020-11-12 08:56:56.875 +01:00 [DBG] DetectChanges completed for 'SupportContext'.
+2020-11-12 08:56:56.876 +01:00 [DBG] DetectChanges starting for 'SupportContext'.
+2020-11-12 08:56:56.876 +01:00 [DBG] DetectChanges completed for 'SupportContext'.
+2020-11-12 08:56:56.896 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 08:56:57.016 +01:00 [DBG] An error occurred using the connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 08:56:57.021 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 08:57:30.363 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 08:57:30.705 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 08:57:30.784 +01:00 [DBG] Context 'SupportContext' started tracking 'ApplicationInfo' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2020-11-12 08:57:30.798 +01:00 [DBG] DetectChanges starting for 'SupportContext'.
+2020-11-12 08:57:30.804 +01:00 [DBG] DetectChanges completed for 'SupportContext'.
+2020-11-12 08:57:30.877 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 09:04:29.223 +01:00 [DBG] Hosting starting
+2020-11-12 09:04:29.572 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 09:04:29.969 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:04:30.008 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:30.014 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:30.971 +01:00 [DBG] An error occurred using the connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:30.973 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:30.975 +01:00 [DBG] An error occurred using the connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.002 +01:00 [DBG] Opening connection to database 'master' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.015 +01:00 [DBG] Opened connection to database 'master' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.022 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.029 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (5ms).
+2020-11-12 09:04:31.039 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [EXAMPLE];
+2020-11-12 09:04:31.191 +01:00 [INF] Executed DbCommand (154ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [EXAMPLE];
+2020-11-12 09:04:31.194 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.194 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.195 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [EXAMPLE] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2020-11-12 09:04:31.233 +01:00 [INF] Executed DbCommand (37ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [EXAMPLE] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2020-11-12 09:04:31.236 +01:00 [DBG] Closing connection to database 'master' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.240 +01:00 [DBG] Closed connection to database 'master' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.244 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.247 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.249 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.250 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.251 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.259 +01:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.262 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.263 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.319 +01:00 [DBG] DetectChanges starting for 'SupportContext'.
+2020-11-12 09:04:31.323 +01:00 [DBG] DetectChanges completed for 'SupportContext'.
+2020-11-12 09:04:31.330 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.331 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (1ms).
+2020-11-12 09:04:31.332 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.334 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.335 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2020-11-12 09:04:31.342 +01:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2020-11-12 09:04:31.344 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.345 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.347 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.349 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.350 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.351 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.352 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.354 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.356 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.358 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.361 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:04:31.362 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (1ms).
+2020-11-12 09:04:31.363 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.364 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.365 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:04:31.383 +01:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:04:31.386 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.388 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.390 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:04:31.390 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2020-11-12 09:04:31.391 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.392 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.393 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:04:31.398 +01:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:04:31.402 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:04:31.403 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.404 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.415 +01:00 [INF] Applying migration '20201112075730_Initial'.
+2020-11-12 09:04:31.437 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.439 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.441 +01:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2020-11-12 09:04:31.446 +01:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2020-11-12 09:04:31.448 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.449 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.453 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [ApplicationInfo] (
+    [Id] uniqueidentifier NOT NULL,
+    [NameApp] nvarchar(200) NULL,
+    [VersionApp] nvarchar(10) NULL,
+    [CodeApp] nvarchar(200) NULL,
+    CONSTRAINT [PK_ApplicationInfo] PRIMARY KEY ([Id])
+);
+2020-11-12 09:04:31.456 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [ApplicationInfo] (
+    [Id] uniqueidentifier NOT NULL,
+    [NameApp] nvarchar(200) NULL,
+    [VersionApp] nvarchar(10) NULL,
+    [CodeApp] nvarchar(200) NULL,
+    CONSTRAINT [PK_ApplicationInfo] PRIMARY KEY ([Id])
+);
+2020-11-12 09:04:31.458 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.459 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (1ms).
+2020-11-12 09:04:31.461 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CodeApp', N'NameApp', N'VersionApp') AND [object_id] = OBJECT_ID(N'[ApplicationInfo]'))
+    SET IDENTITY_INSERT [ApplicationInfo] ON;
+INSERT INTO [ApplicationInfo] ([Id], [CodeApp], [NameApp], [VersionApp])
+VALUES ('85952b6a-1724-4d21-a769-1aa19978291e', N'Example_Code', N'Example', N'0.1.0');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CodeApp', N'NameApp', N'VersionApp') AND [object_id] = OBJECT_ID(N'[ApplicationInfo]'))
+    SET IDENTITY_INSERT [ApplicationInfo] OFF;
+2020-11-12 09:04:31.488 +01:00 [INF] Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CodeApp', N'NameApp', N'VersionApp') AND [object_id] = OBJECT_ID(N'[ApplicationInfo]'))
+    SET IDENTITY_INSERT [ApplicationInfo] ON;
+INSERT INTO [ApplicationInfo] ([Id], [CodeApp], [NameApp], [VersionApp])
+VALUES ('85952b6a-1724-4d21-a769-1aa19978291e', N'Example_Code', N'Example', N'0.1.0');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CodeApp', N'NameApp', N'VersionApp') AND [object_id] = OBJECT_ID(N'[ApplicationInfo]'))
+    SET IDENTITY_INSERT [ApplicationInfo] OFF;
+2020-11-12 09:04:31.491 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.492 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.493 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20201112075730_Initial', N'5.0.0-rc.1.20451.13');
+2020-11-12 09:04:31.496 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20201112075730_Initial', N'5.0.0-rc.1.20451.13');
+2020-11-12 09:04:31.500 +01:00 [DBG] Committing transaction.
+2020-11-12 09:04:31.503 +01:00 [DBG] Committed transaction.
+2020-11-12 09:04:31.505 +01:00 [DBG] Disposing transaction.
+2020-11-12 09:04:31.505 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.506 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.636 +01:00 [DBG] The property 'RoleId.User' was created in shadow state because there are no eligible CLR members with a matching name.
+2020-11-12 09:04:31.643 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'UserAccessContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:04:31.645 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.647 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.648 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.649 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.650 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.651 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.652 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.654 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.654 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.657 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:04:31.657 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:04:31.658 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.659 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.660 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:04:31.663 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:04:31.666 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.668 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.669 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.670 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.671 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.672 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.672 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.675 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:04:31.679 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.680 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.681 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:04:31.682 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (1ms).
+2020-11-12 09:04:31.684 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.686 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.687 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:04:31.689 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:04:31.690 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.691 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.693 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:04:31.695 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (1ms).
+2020-11-12 09:04:31.696 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.697 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.698 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:04:31.700 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:04:31.703 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:04:31.705 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.706 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.707 +01:00 [INF] Applying migration '20201106125002_Initial'.
+2020-11-12 09:04:31.726 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.728 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.729 +01:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2020-11-12 09:04:31.730 +01:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2020-11-12 09:04:31.731 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.732 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.733 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [RfaInfo] (
+    [Id] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NULL,
+    [Email] nvarchar(200) NULL,
+    [PhoneNumber] nvarchar(10) NULL,
+    [Profession] nvarchar(200) NULL,
+    CONSTRAINT [PK_RfaInfo] PRIMARY KEY ([Id])
+);
+2020-11-12 09:04:31.737 +01:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [RfaInfo] (
+    [Id] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NULL,
+    [Email] nvarchar(200) NULL,
+    [PhoneNumber] nvarchar(10) NULL,
+    [Profession] nvarchar(200) NULL,
+    CONSTRAINT [PK_RfaInfo] PRIMARY KEY ([Id])
+);
+2020-11-12 09:04:31.739 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.741 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (1ms).
+2020-11-12 09:04:31.742 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Role] (
+    [Id] uniqueidentifier NOT NULL,
+    [Name] nvarchar(200) NULL,
+    [Permissions] smallint NULL,
+    CONSTRAINT [PK_Role] PRIMARY KEY ([Id])
+);
+2020-11-12 09:04:31.744 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Role] (
+    [Id] uniqueidentifier NOT NULL,
+    [Name] nvarchar(200) NULL,
+    [Permissions] smallint NULL,
+    CONSTRAINT [PK_Role] PRIMARY KEY ([Id])
+);
+2020-11-12 09:04:31.747 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.748 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.749 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [User] (
+    [Id] uniqueidentifier NOT NULL,
+    [FirstName] nvarchar(200) NULL,
+    [LastName] nvarchar(200) NULL,
+    [Email] nvarchar(200) NULL,
+    [RoleId] uniqueidentifier NULL,
+    [IsActive] bit NULL,
+    CONSTRAINT [PK_User] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_User_Role_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [Role] ([Id]) ON DELETE NO ACTION
+);
+2020-11-12 09:04:31.753 +01:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [User] (
+    [Id] uniqueidentifier NOT NULL,
+    [FirstName] nvarchar(200) NULL,
+    [LastName] nvarchar(200) NULL,
+    [Email] nvarchar(200) NULL,
+    [RoleId] uniqueidentifier NULL,
+    [IsActive] bit NULL,
+    CONSTRAINT [PK_User] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_User_Role_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [Role] ([Id]) ON DELETE NO ACTION
+);
+2020-11-12 09:04:31.755 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.757 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (2ms).
+2020-11-12 09:04:31.758 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] ON;
+INSERT INTO [Role] ([Id], [Name], [Permissions])
+VALUES ('0186bc52-b39c-4c2a-9c4f-ddc6931c905e', N'rfa', CAST(32 AS smallint));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] OFF;
+2020-11-12 09:04:31.765 +01:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] ON;
+INSERT INTO [Role] ([Id], [Name], [Permissions])
+VALUES ('0186bc52-b39c-4c2a-9c4f-ddc6931c905e', N'rfa', CAST(32 AS smallint));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] OFF;
+2020-11-12 09:04:31.769 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.770 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.771 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] ON;
+INSERT INTO [Role] ([Id], [Name], [Permissions])
+VALUES ('0f4f1270-facc-4de1-994b-3d6bd3333399', N'admin', CAST(64 AS smallint));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] OFF;
+2020-11-12 09:04:31.777 +01:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] ON;
+INSERT INTO [Role] ([Id], [Name], [Permissions])
+VALUES ('0f4f1270-facc-4de1-994b-3d6bd3333399', N'admin', CAST(64 AS smallint));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] OFF;
+2020-11-12 09:04:31.780 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.781 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.782 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] ON;
+INSERT INTO [Role] ([Id], [Name], [Permissions])
+VALUES ('a5c2796d-1b39-4f5c-b070-b09886dcb56d', N'default', CAST(1 AS smallint));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] OFF;
+2020-11-12 09:04:31.788 +01:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] ON;
+INSERT INTO [Role] ([Id], [Name], [Permissions])
+VALUES ('a5c2796d-1b39-4f5c-b070-b09886dcb56d', N'default', CAST(1 AS smallint));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Name', N'Permissions') AND [object_id] = OBJECT_ID(N'[Role]'))
+    SET IDENTITY_INSERT [Role] OFF;
+2020-11-12 09:04:31.791 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.792 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.793 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_User_RoleId] ON [User] ([RoleId]);
+2020-11-12 09:04:31.796 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_User_RoleId] ON [User] ([RoleId]);
+2020-11-12 09:04:31.798 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:04:31.799 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:04:31.800 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20201106125002_Initial', N'5.0.0-rc.1.20451.13');
+2020-11-12 09:04:31.802 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20201106125002_Initial', N'5.0.0-rc.1.20451.13');
+2020-11-12 09:04:31.803 +01:00 [DBG] Committing transaction.
+2020-11-12 09:04:31.805 +01:00 [DBG] Committed transaction.
+2020-11-12 09:04:31.806 +01:00 [DBG] Disposing transaction.
+2020-11-12 09:04:31.807 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.808 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:04:31.810 +01:00 [DBG] 'UserAccessContext' disposed.
+2020-11-12 09:04:31.811 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 09:04:31.946 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: CCBB30A121C31D6CCAAFB3454152CB0852BADF3B)
+2020-11-12 09:04:31.988 +01:00 [INF] Now listening on: https://localhost:8001
+2020-11-12 09:04:31.989 +01:00 [INF] Now listening on: http://localhost:8000
+2020-11-12 09:04:31.991 +01:00 [DBG] Loaded hosting startup assembly API
+2020-11-12 09:04:31.991 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-11-12 09:04:31.992 +01:00 [INF] Hosting environment: Development
+2020-11-12 09:04:31.993 +01:00 [INF] Content root path: E:\Git\.net5_Dapper_ddd\API
+2020-11-12 09:04:31.994 +01:00 [DBG] Hosting started
+2020-11-12 09:04:32.069 +01:00 [DBG] Connection id "0HM46S6B5595F" received FIN.
+2020-11-12 09:04:32.073 +01:00 [DBG] Connection id "0HM46S6B5595F" accepted.
+2020-11-12 09:04:32.075 +01:00 [DBG] Connection id "0HM46S6B5595F" started.
+2020-11-12 09:04:32.087 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2020-11-12 09:04:32.121 +01:00 [DBG] Connection id "0HM46S6B5595F" stopped.
+2020-11-12 09:04:32.124 +01:00 [DBG] Connection id "0HM46S6B5595F" sending FIN because: "The Socket transport's send loop completed gracefully."
+2020-11-12 09:04:32.293 +01:00 [DBG] Connection id "0HM46S6B5595G" accepted.
+2020-11-12 09:04:32.294 +01:00 [DBG] Connection id "0HM46S6B5595G" started.
+2020-11-12 09:04:32.347 +01:00 [DBG] Connection "0HM46S6B5595G" established using the following protocol: "Tls12"
+2020-11-12 09:04:32.360 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "SETTINGS" frame for stream ID 0 with length 18 and flags "NONE"
+2020-11-12 09:04:32.364 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "WINDOW_UPDATE" frame for stream ID 0 with length 4 and flags 0x0
+2020-11-12 09:04:32.367 +01:00 [VRB] Connection id "0HM46S6B5595G" received "SETTINGS" frame for stream ID 0 with length 24 and flags "NONE"
+2020-11-12 09:04:32.370 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "SETTINGS" frame for stream ID 0 with length 0 and flags "ACK"
+2020-11-12 09:04:32.375 +01:00 [VRB] Connection id "0HM46S6B5595G" received "WINDOW_UPDATE" frame for stream ID 0 with length 4 and flags 0x0
+2020-11-12 09:04:32.377 +01:00 [VRB] Connection id "0HM46S6B5595G" received "HEADERS" frame for stream ID 1 with length 364 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:04:32.397 +01:00 [VRB] Connection id "0HM46S6B5595G" received "SETTINGS" frame for stream ID 0 with length 0 and flags "ACK"
+2020-11-12 09:04:32.409 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/swagger/index.html - -
+2020-11-12 09:04:32.412 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2020-11-12 09:04:32.413 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:04:32.503 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "HEADERS" frame for stream ID 1 with length 66 and flags "END_HEADERS"
+2020-11-12 09:04:32.506 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "DATA" frame for stream ID 1 with length 3206 and flags "NONE"
+2020-11-12 09:04:32.512 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "DATA" frame for stream ID 1 with length 0 and flags "END_STREAM"
+2020-11-12 09:04:32.516 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/swagger/index.html - - - 200 - text/html;charset=utf-8 110.0044ms
+2020-11-12 09:04:32.723 +01:00 [VRB] Connection id "0HM46S6B5595G" received "HEADERS" frame for stream ID 3 with length 103 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:04:32.729 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/swagger/v1/swagger.json - -
+2020-11-12 09:04:32.730 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:04:32.812 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "HEADERS" frame for stream ID 3 with length 35 and flags "END_HEADERS"
+2020-11-12 09:04:32.815 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "DATA" frame for stream ID 3 with length 16384 and flags "NONE"
+2020-11-12 09:04:32.817 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "DATA" frame for stream ID 3 with length 7612 and flags "NONE"
+2020-11-12 09:04:32.823 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "DATA" frame for stream ID 3 with length 0 and flags "END_STREAM"
+2020-11-12 09:04:32.825 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.7709ms
+2020-11-12 09:04:42.473 +01:00 [INF] Application is shutting down...
+2020-11-12 09:04:42.474 +01:00 [DBG] Hosting stopping
+2020-11-12 09:04:42.483 +01:00 [DBG] Connection id "0HM46S6B5595G" is closing.
+2020-11-12 09:04:42.484 +01:00 [DBG] Connection id "0HM46S6B5595G" is closed. The last processed stream ID was 3.
+2020-11-12 09:04:42.485 +01:00 [VRB] Connection id "0HM46S6B5595G" sending "GOAWAY" frame for stream ID 0 with length 8 and flags 0x0
+2020-11-12 09:04:42.486 +01:00 [DBG] Connection id "0HM46S6B5595G" received FIN.
+2020-11-12 09:04:42.487 +01:00 [DBG] Connection id "0HM46S6B5595G" sending FIN because: "The client closed the connection."
+2020-11-12 09:04:42.489 +01:00 [DBG] Connection id "0HM46S6B5595G" stopped.
+2020-11-12 09:04:42.493 +01:00 [DBG] Hosting stopped
+2020-11-12 09:19:18.381 +01:00 [DBG] Hosting starting
+2020-11-12 09:19:18.649 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 09:19:19.074 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:19:19.115 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:19.122 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:19.992 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.000 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:19:20.007 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (5ms).
+2020-11-12 09:19:20.015 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.035 +01:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.039 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.044 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.049 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:19:20.050 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (1ms).
+2020-11-12 09:19:20.051 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.053 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.055 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.070 +01:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.073 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.074 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.076 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.077 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.078 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:19:20.079 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:19:20.080 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.083 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.085 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.087 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.088 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:19:20.089 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:19:20.091 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.092 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.094 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.096 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.097 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.098 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.107 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:19:20.108 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (1ms).
+2020-11-12 09:19:20.110 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.111 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.113 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:19:20.116 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:19:20.121 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:19:20.122 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.125 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.135 +01:00 [INF] No migrations were applied. The database is already up to date.
+2020-11-12 09:19:20.288 +01:00 [DBG] The property 'RoleId.User' was created in shadow state because there are no eligible CLR members with a matching name.
+2020-11-12 09:19:20.296 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'UserAccessContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:19:20.299 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.300 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.302 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.303 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:19:20.304 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (1ms).
+2020-11-12 09:19:20.306 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.310 +01:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.312 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.313 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.314 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:19:20.314 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:19:20.315 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.316 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.318 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.321 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.323 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.324 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.325 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.326 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.328 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:19:20.329 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:19:20.330 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.332 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:19:20.334 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.334 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.337 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:19:20.339 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (1ms).
+2020-11-12 09:19:20.340 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.341 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.343 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.344 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:19:20.347 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.349 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.351 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:19:20.352 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2020-11-12 09:19:20.353 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.354 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.357 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:19:20.359 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:19:20.361 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:19:20.361 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.363 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:19:20.364 +01:00 [INF] No migrations were applied. The database is already up to date.
+2020-11-12 09:19:20.366 +01:00 [DBG] 'UserAccessContext' disposed.
+2020-11-12 09:19:20.368 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 09:19:20.463 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: CCBB30A121C31D6CCAAFB3454152CB0852BADF3B)
+2020-11-12 09:19:20.506 +01:00 [INF] Now listening on: https://localhost:8001
+2020-11-12 09:19:20.507 +01:00 [INF] Now listening on: http://localhost:8000
+2020-11-12 09:19:20.509 +01:00 [DBG] Loaded hosting startup assembly API
+2020-11-12 09:19:20.510 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-11-12 09:19:20.511 +01:00 [INF] Hosting environment: Development
+2020-11-12 09:19:20.512 +01:00 [INF] Content root path: E:\Git\.net5_Dapper_ddd\API
+2020-11-12 09:19:20.513 +01:00 [DBG] Hosting started
+2020-11-12 09:20:17.739 +01:00 [DBG] Hosting starting
+2020-11-12 09:20:18.019 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 09:20:18.497 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:20:18.536 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.541 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.767 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.774 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:20:18.780 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (5ms).
+2020-11-12 09:20:18.789 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:18.809 +01:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:18.812 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.817 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.821 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:20:18.822 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:20:18.822 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.824 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.825 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:18.840 +01:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:18.842 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.843 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.845 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.846 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.847 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:20:18.848 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (1ms).
+2020-11-12 09:20:18.851 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:18.853 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:18.855 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.857 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.858 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:20:18.858 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:20:18.860 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.862 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.863 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:18.865 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:18.868 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.868 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.876 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:20:18.877 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (1ms).
+2020-11-12 09:20:18.879 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.881 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.882 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:20:18.885 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:20:18.890 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:20:18.891 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.891 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:18.901 +01:00 [INF] No migrations were applied. The database is already up to date.
+2020-11-12 09:20:19.028 +01:00 [DBG] The property 'RoleId.User' was created in shadow state because there are no eligible CLR members with a matching name.
+2020-11-12 09:20:19.036 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'UserAccessContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:20:19.039 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.041 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.042 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.042 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:20:19.043 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:20:19.044 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:19.046 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:19.049 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.050 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.051 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:20:19.052 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:20:19.053 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.054 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.055 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:19.058 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:19.060 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.061 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.062 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.064 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.066 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:20:19.068 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (1ms).
+2020-11-12 09:20:19.069 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:19.071 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:20:19.072 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.073 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.074 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:20:19.075 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:20:19.077 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.078 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.080 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:19.083 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:20:19.085 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.086 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.089 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:20:19.090 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2020-11-12 09:20:19.091 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.092 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.093 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:20:19.095 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:20:19.098 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:20:19.099 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.100 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:20:19.101 +01:00 [INF] No migrations were applied. The database is already up to date.
+2020-11-12 09:20:19.102 +01:00 [DBG] 'UserAccessContext' disposed.
+2020-11-12 09:20:19.104 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 09:20:19.187 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: CCBB30A121C31D6CCAAFB3454152CB0852BADF3B)
+2020-11-12 09:20:19.226 +01:00 [INF] Now listening on: https://localhost:8001
+2020-11-12 09:20:19.227 +01:00 [INF] Now listening on: http://localhost:8000
+2020-11-12 09:20:19.228 +01:00 [DBG] Loaded hosting startup assembly API
+2020-11-12 09:20:19.229 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-11-12 09:20:19.230 +01:00 [INF] Hosting environment: Development
+2020-11-12 09:20:19.231 +01:00 [INF] Content root path: E:\Git\.net5_Dapper_ddd\API
+2020-11-12 09:20:19.232 +01:00 [DBG] Hosting started
+2020-11-12 09:20:19.351 +01:00 [DBG] Connection id "0HM46SF5F2RCL" accepted.
+2020-11-12 09:20:19.351 +01:00 [DBG] Connection id "0HM46SF5F2RCM" accepted.
+2020-11-12 09:20:19.351 +01:00 [DBG] Connection id "0HM46SF5F2RCM" received FIN.
+2020-11-12 09:20:19.352 +01:00 [DBG] Connection id "0HM46SF5F2RCL" started.
+2020-11-12 09:20:19.351 +01:00 [DBG] Connection id "0HM46SF5F2RCL" received FIN.
+2020-11-12 09:20:19.355 +01:00 [DBG] Connection id "0HM46SF5F2RCM" started.
+2020-11-12 09:20:19.368 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2020-11-12 09:20:19.368 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2020-11-12 09:20:19.396 +01:00 [DBG] Connection id "0HM46SF5F2RCM" stopped.
+2020-11-12 09:20:19.396 +01:00 [DBG] Connection id "0HM46SF5F2RCL" stopped.
+2020-11-12 09:20:19.401 +01:00 [DBG] Connection id "0HM46SF5F2RCM" sending FIN because: "The Socket transport's send loop completed gracefully."
+2020-11-12 09:20:19.401 +01:00 [DBG] Connection id "0HM46SF5F2RCL" sending FIN because: "The Socket transport's send loop completed gracefully."
+2020-11-12 09:20:19.629 +01:00 [DBG] Connection id "0HM46SF5F2RCN" accepted.
+2020-11-12 09:20:19.631 +01:00 [DBG] Connection id "0HM46SF5F2RCN" started.
+2020-11-12 09:20:19.679 +01:00 [DBG] Connection "0HM46SF5F2RCN" established using the following protocol: "Tls12"
+2020-11-12 09:20:19.692 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "SETTINGS" frame for stream ID 0 with length 18 and flags "NONE"
+2020-11-12 09:20:19.695 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "WINDOW_UPDATE" frame for stream ID 0 with length 4 and flags 0x0
+2020-11-12 09:20:19.697 +01:00 [VRB] Connection id "0HM46SF5F2RCN" received "SETTINGS" frame for stream ID 0 with length 24 and flags "NONE"
+2020-11-12 09:20:19.702 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "SETTINGS" frame for stream ID 0 with length 0 and flags "ACK"
+2020-11-12 09:20:19.704 +01:00 [VRB] Connection id "0HM46SF5F2RCN" received "WINDOW_UPDATE" frame for stream ID 0 with length 4 and flags 0x0
+2020-11-12 09:20:19.706 +01:00 [VRB] Connection id "0HM46SF5F2RCN" received "HEADERS" frame for stream ID 1 with length 364 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:20:19.725 +01:00 [VRB] Connection id "0HM46SF5F2RCN" received "SETTINGS" frame for stream ID 0 with length 0 and flags "ACK"
+2020-11-12 09:20:19.734 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/swagger/index.html - -
+2020-11-12 09:20:19.736 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2020-11-12 09:20:19.738 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:20:19.828 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "HEADERS" frame for stream ID 1 with length 66 and flags "END_HEADERS"
+2020-11-12 09:20:19.831 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 1 with length 3185 and flags "NONE"
+2020-11-12 09:20:19.835 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 1 with length 0 and flags "END_STREAM"
+2020-11-12 09:20:19.839 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/swagger/index.html - - - 200 - text/html;charset=utf-8 106.5856ms
+2020-11-12 09:20:20.062 +01:00 [VRB] Connection id "0HM46SF5F2RCN" received "HEADERS" frame for stream ID 3 with length 103 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:20:20.068 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/swagger/v1/swagger.json - -
+2020-11-12 09:20:20.069 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:20:20.094 +01:00 [VRB] Connection id "0HM46SF5F2RCN" received "HEADERS" frame for stream ID 5 with length 89 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:20:20.097 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/swagger/favicon-32x32.png - -
+2020-11-12 09:20:20.098 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:20:20.109 +01:00 [VRB] Range header's value is empty.
+2020-11-12 09:20:20.112 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "HEADERS" frame for stream ID 5 with length 77 and flags "END_HEADERS"
+2020-11-12 09:20:20.115 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 5 with length 628 and flags "NONE"
+2020-11-12 09:20:20.119 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2020-11-12 09:20:20.120 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 5 with length 0 and flags "END_STREAM"
+2020-11-12 09:20:20.121 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/swagger/favicon-32x32.png - - - 200 628 image/png 24.2807ms
+2020-11-12 09:20:20.153 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "HEADERS" frame for stream ID 3 with length 65 and flags "END_HEADERS"
+2020-11-12 09:20:20.156 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 3 with length 16384 and flags "NONE"
+2020-11-12 09:20:20.159 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 3 with length 7612 and flags "NONE"
+2020-11-12 09:20:20.160 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 3 with length 0 and flags "END_STREAM"
+2020-11-12 09:20:20.162 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 93.3220ms
+2020-11-12 09:20:23.553 +01:00 [VRB] Connection id "0HM46SF5F2RCN" received "HEADERS" frame for stream ID 7 with length 35 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:20:23.556 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/api/Rfa/all - -
+2020-11-12 09:20:23.557 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:20:23.558 +01:00 [DBG] The request path  does not match the path filter
+2020-11-12 09:20:23.585 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Rfa/all'
+2020-11-12 09:20:23.589 +01:00 [DBG] Endpoint 'API.Controllers.RfaController.All (API)' with route pattern 'api/Rfa/all' is valid for the request path '/api/Rfa/all'
+2020-11-12 09:20:23.592 +01:00 [DBG] Request matched endpoint 'API.Controllers.RfaController.All (API)'
+2020-11-12 09:20:23.595 +01:00 [INF] Executing endpoint 'API.Controllers.RfaController.All (API)'
+2020-11-12 09:20:23.602 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2020-11-12 09:20:23.624 +01:00 [INF] Route matched with {action = "All", controller = "Rfa"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.IEnumerable`1[Support.Application.Rfas.Outputs.RfaOutput]] All() on controller API.Controllers.RfaController (API).
+2020-11-12 09:20:23.627 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2020-11-12 09:20:23.628 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2020-11-12 09:20:23.629 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2020-11-12 09:20:23.631 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2020-11-12 09:20:23.633 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2020-11-12 09:20:23.635 +01:00 [DBG] Executing controller factory for controller API.Controllers.RfaController (API)
+2020-11-12 09:20:23.641 +01:00 [INF] Executed action API.Controllers.RfaController.All (API) in 3.4684ms
+2020-11-12 09:20:23.643 +01:00 [INF] Executed endpoint 'API.Controllers.RfaController.All (API)'
+2020-11-12 09:20:23.644 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'MediatR.IMediator' while attempting to activate 'API.Controllers.RfaController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method36(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-12 09:20:23.658 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "HEADERS" frame for stream ID 7 with length 45 and flags "END_HEADERS"
+2020-11-12 09:20:23.661 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 7 with length 2445 and flags "NONE"
+2020-11-12 09:20:23.662 +01:00 [VRB] Connection id "0HM46SF5F2RCN" sending "DATA" frame for stream ID 7 with length 0 and flags "END_STREAM"
+2020-11-12 09:20:23.664 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/api/Rfa/all - - - 500 - text/plain 108.3595ms
+2020-11-12 09:23:28.242 +01:00 [DBG] Hosting starting
+2020-11-12 09:23:28.505 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2020-11-12 09:23:28.981 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'SupportContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:23:29.025 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.031 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.282 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.291 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:23:29.298 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (5ms).
+2020-11-12 09:23:29.307 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.329 +01:00 [INF] Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.333 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.338 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.342 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:23:29.343 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:23:29.344 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.346 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.347 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.363 +01:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.365 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.367 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.368 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.369 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.370 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:23:29.371 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:23:29.372 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.375 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.376 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.377 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.379 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:23:29.379 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:23:29.380 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.381 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.382 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.385 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.386 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.387 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.395 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:23:29.396 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (1ms).
+2020-11-12 09:23:29.397 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.397 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.398 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:23:29.402 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:23:29.406 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:23:29.406 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.408 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.418 +01:00 [INF] No migrations were applied. The database is already up to date.
+2020-11-12 09:23:29.565 +01:00 [DBG] The property 'RoleId.User' was created in shadow state because there are no eligible CLR members with a matching name.
+2020-11-12 09:23:29.573 +01:00 [INF] Entity Framework Core 5.0.0-rc.1.20451.13 initialized 'UserAccessContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2020-11-12 09:23:29.577 +01:00 [DBG] Migrating using database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.578 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.579 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.580 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:23:29.581 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (1ms).
+2020-11-12 09:23:29.582 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.584 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.585 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.586 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.587 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:23:29.588 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (1ms).
+2020-11-12 09:23:29.589 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.590 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.591 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.593 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.595 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.596 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.597 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.598 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.599 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2020-11-12 09:23:29.600 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2020-11-12 09:23:29.601 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.603 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2020-11-12 09:23:29.605 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.606 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.607 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2020-11-12 09:23:29.608 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2020-11-12 09:23:29.609 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.610 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.611 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.612 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2020-11-12 09:23:29.614 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.615 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.617 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2020-11-12 09:23:29.617 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2020-11-12 09:23:29.618 +01:00 [DBG] Opening connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.619 +01:00 [DBG] Opened connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.620 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:23:29.623 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2020-11-12 09:23:29.624 +01:00 [DBG] A data reader was disposed.
+2020-11-12 09:23:29.625 +01:00 [DBG] Closing connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.626 +01:00 [DBG] Closed connection to database 'EXAMPLE' on server '(localdb)\mssqllocaldb'.
+2020-11-12 09:23:29.627 +01:00 [INF] No migrations were applied. The database is already up to date.
+2020-11-12 09:23:29.629 +01:00 [DBG] 'UserAccessContext' disposed.
+2020-11-12 09:23:29.630 +01:00 [DBG] 'SupportContext' disposed.
+2020-11-12 09:23:29.718 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: CCBB30A121C31D6CCAAFB3454152CB0852BADF3B)
+2020-11-12 09:23:29.770 +01:00 [INF] Now listening on: https://localhost:8001
+2020-11-12 09:23:29.772 +01:00 [INF] Now listening on: http://localhost:8000
+2020-11-12 09:23:29.773 +01:00 [DBG] Loaded hosting startup assembly API
+2020-11-12 09:23:29.775 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-11-12 09:23:29.776 +01:00 [INF] Hosting environment: Development
+2020-11-12 09:23:29.777 +01:00 [INF] Content root path: E:\Git\.net5_Dapper_ddd\API
+2020-11-12 09:23:29.778 +01:00 [DBG] Hosting started
+2020-11-12 09:23:29.999 +01:00 [DBG] Connection id "0HM46SGU99PGI" received FIN.
+2020-11-12 09:23:29.999 +01:00 [DBG] Connection id "0HM46SGU99PGJ" received FIN.
+2020-11-12 09:23:30.001 +01:00 [DBG] Connection id "0HM46SGU99PGI" accepted.
+2020-11-12 09:23:30.001 +01:00 [DBG] Connection id "0HM46SGU99PGJ" accepted.
+2020-11-12 09:23:30.004 +01:00 [DBG] Connection id "0HM46SGU99PGI" started.
+2020-11-12 09:23:30.004 +01:00 [DBG] Connection id "0HM46SGU99PGJ" started.
+2020-11-12 09:23:30.017 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2020-11-12 09:23:30.017 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2020-11-12 09:23:30.045 +01:00 [DBG] Connection id "0HM46SGU99PGJ" stopped.
+2020-11-12 09:23:30.045 +01:00 [DBG] Connection id "0HM46SGU99PGI" stopped.
+2020-11-12 09:23:30.047 +01:00 [DBG] Connection id "0HM46SGU99PGI" sending FIN because: "The Socket transport's send loop completed gracefully."
+2020-11-12 09:23:30.047 +01:00 [DBG] Connection id "0HM46SGU99PGJ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2020-11-12 09:23:30.303 +01:00 [DBG] Connection id "0HM46SGU99PGK" accepted.
+2020-11-12 09:23:30.307 +01:00 [DBG] Connection id "0HM46SGU99PGK" started.
+2020-11-12 09:23:30.353 +01:00 [DBG] Connection "0HM46SGU99PGK" established using the following protocol: "Tls12"
+2020-11-12 09:23:30.367 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "SETTINGS" frame for stream ID 0 with length 18 and flags "NONE"
+2020-11-12 09:23:30.370 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "WINDOW_UPDATE" frame for stream ID 0 with length 4 and flags 0x0
+2020-11-12 09:23:30.373 +01:00 [VRB] Connection id "0HM46SGU99PGK" received "SETTINGS" frame for stream ID 0 with length 24 and flags "NONE"
+2020-11-12 09:23:30.375 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "SETTINGS" frame for stream ID 0 with length 0 and flags "ACK"
+2020-11-12 09:23:30.376 +01:00 [VRB] Connection id "0HM46SGU99PGK" received "WINDOW_UPDATE" frame for stream ID 0 with length 4 and flags 0x0
+2020-11-12 09:23:30.378 +01:00 [VRB] Connection id "0HM46SGU99PGK" received "HEADERS" frame for stream ID 1 with length 364 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:23:30.395 +01:00 [VRB] Connection id "0HM46SGU99PGK" received "SETTINGS" frame for stream ID 0 with length 0 and flags "ACK"
+2020-11-12 09:23:30.405 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/swagger/index.html - -
+2020-11-12 09:23:30.408 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2020-11-12 09:23:30.408 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:23:30.492 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "HEADERS" frame for stream ID 1 with length 66 and flags "END_HEADERS"
+2020-11-12 09:23:30.498 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "DATA" frame for stream ID 1 with length 3185 and flags "NONE"
+2020-11-12 09:23:30.501 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "DATA" frame for stream ID 1 with length 0 and flags "END_STREAM"
+2020-11-12 09:23:30.507 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/swagger/index.html - - - 200 - text/html;charset=utf-8 103.1099ms
+2020-11-12 09:23:30.690 +01:00 [VRB] Connection id "0HM46SGU99PGK" received "HEADERS" frame for stream ID 3 with length 103 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:23:30.695 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/swagger/v1/swagger.json - -
+2020-11-12 09:23:30.696 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:23:30.765 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "HEADERS" frame for stream ID 3 with length 65 and flags "END_HEADERS"
+2020-11-12 09:23:30.768 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "DATA" frame for stream ID 3 with length 16384 and flags "NONE"
+2020-11-12 09:23:30.770 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "DATA" frame for stream ID 3 with length 7612 and flags "NONE"
+2020-11-12 09:23:30.773 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "DATA" frame for stream ID 3 with length 0 and flags "END_STREAM"
+2020-11-12 09:23:30.774 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 79.1699ms
+2020-11-12 09:23:55.119 +01:00 [VRB] Connection id "0HM46SGU99PGK" received "HEADERS" frame for stream ID 5 with length 43 and flags "END_STREAM, END_HEADERS, PRIORITY"
+2020-11-12 09:23:55.121 +01:00 [VRB] Connection id "0HM46SGU99PGK" received "PING" frame for stream ID 0 with length 8 and flags "NONE"
+2020-11-12 09:23:55.121 +01:00 [INF] Request starting HTTP/2 GET https://localhost:8001/api/Support/getAppInfo - -
+2020-11-12 09:23:55.122 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "PING" frame for stream ID 0 with length 8 and flags "ACK"
+2020-11-12 09:23:55.123 +01:00 [VRB] All hosts are allowed.
+2020-11-12 09:23:55.126 +01:00 [DBG] The request path  does not match the path filter
+2020-11-12 09:23:55.156 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Support/getAppInfo'
+2020-11-12 09:23:55.160 +01:00 [DBG] Endpoint 'API.Controllers.SupportController.GetApplicationInfo (API)' with route pattern 'api/Support/getAppInfo' is valid for the request path '/api/Support/getAppInfo'
+2020-11-12 09:23:55.161 +01:00 [DBG] Request matched endpoint 'API.Controllers.SupportController.GetApplicationInfo (API)'
+2020-11-12 09:23:55.165 +01:00 [INF] Executing endpoint 'API.Controllers.SupportController.GetApplicationInfo (API)'
+2020-11-12 09:23:55.173 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2020-11-12 09:23:55.192 +01:00 [INF] Route matched with {action = "GetApplicationInfo", controller = "Support"}. Executing controller action with signature System.Threading.Tasks.Task`1[Support.Application.ApplicationInfos.Outputs.ApplicationInfoOutput] GetApplicationInfo() on controller API.Controllers.SupportController (API).
+2020-11-12 09:23:55.195 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2020-11-12 09:23:55.196 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2020-11-12 09:23:55.198 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2020-11-12 09:23:55.199 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2020-11-12 09:23:55.200 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2020-11-12 09:23:55.202 +01:00 [DBG] Executing controller factory for controller API.Controllers.SupportController (API)
+2020-11-12 09:23:55.203 +01:00 [DBG] Executed controller factory for controller API.Controllers.SupportController (API)
+2020-11-12 09:23:55.205 +01:00 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2020-11-12 09:23:55.206 +01:00 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2020-11-12 09:23:55.207 +01:00 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2020-11-12 09:23:55.208 +01:00 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2020-11-12 09:23:55.212 +01:00 [INF] Executing action method API.Controllers.SupportController.GetApplicationInfo (API) - Validation state: "Valid"
+2020-11-12 09:23:55.523 +01:00 [INF] Executed action method API.Controllers.SupportController.GetApplicationInfo (API), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 305.5371ms.
+2020-11-12 09:23:55.525 +01:00 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2020-11-12 09:23:55.526 +01:00 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2020-11-12 09:23:55.528 +01:00 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2020-11-12 09:23:55.529 +01:00 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2020-11-12 09:23:55.531 +01:00 [VRB] Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2020-11-12 09:23:55.533 +01:00 [VRB] Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2020-11-12 09:23:55.535 +01:00 [VRB] Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2020-11-12 09:23:55.536 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2020-11-12 09:23:55.540 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2020-11-12 09:23:55.541 +01:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2020-11-12 09:23:55.542 +01:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2020-11-12 09:23:55.542 +01:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2020-11-12 09:23:55.543 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2020-11-12 09:23:55.544 +01:00 [INF] Executing ObjectResult, writing value of type 'Support.Application.ApplicationInfos.Outputs.ApplicationInfoOutput'.
+2020-11-12 09:23:55.552 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "HEADERS" frame for stream ID 5 with length 66 and flags "END_HEADERS"
+2020-11-12 09:23:55.555 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "DATA" frame for stream ID 5 with length 67 and flags "NONE"
+2020-11-12 09:23:55.556 +01:00 [VRB] After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2020-11-12 09:23:55.557 +01:00 [VRB] Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2020-11-12 09:23:55.559 +01:00 [VRB] Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2020-11-12 09:23:55.564 +01:00 [INF] Executed action API.Controllers.SupportController.GetApplicationInfo (API) in 358.8711ms
+2020-11-12 09:23:55.566 +01:00 [INF] Executed endpoint 'API.Controllers.SupportController.GetApplicationInfo (API)'
+2020-11-12 09:23:55.569 +01:00 [VRB] Connection id "0HM46SGU99PGK" sending "DATA" frame for stream ID 5 with length 0 and flags "END_STREAM"
+2020-11-12 09:23:55.571 +01:00 [INF] Request finished HTTP/2 GET https://localhost:8001/api/Support/getAppInfo - - - 200 - application/json;+charset=utf-8 449.4985ms

@@ -1,0 +1,11 @@
+Informations sur le ticket :
+  ARIS : {0} | {1}
+  Utilisateur ayant rédigé le ticket : {2} {3}
+  Ticket rédigé le : {4} à {5}
+
+Message : {6}
+
+
+RFA de l'application :
+  {7}
+
