@@ -1,7 +1,7 @@
 ﻿using Serilog;
 using Serilog.Core;
 
-namespace Framatome.SupplierManagement.API
+namespace Example.API
 {
     internal static class SerilogConfiguration
     {

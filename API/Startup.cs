@@ -33,7 +33,7 @@ using Common.Infrastructure;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace Framatome.SupplierManagement.API
+namespace Example.API
 {
     public class Startup
     {
